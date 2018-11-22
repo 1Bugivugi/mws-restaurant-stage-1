@@ -19,9 +19,9 @@ Udacity's overview for this project states:
 
 ## Installation
 
-1.a) **Zip-Download:** Download the repository as a zip-file, extract it, use Git Bash to change
+1. a) **Zip-Download:** Download the repository as a zip-file, extract it, use Git Bash to change
 into the project directory. / 
-b)**Clone the Repository:** Clone the repository with Git Bash: ```git clone https://github.com/1Bugivugi/mws-restaurant-stage-1.git```.
+ b)**Clone the Repository:** Clone the repository with Git Bash: ```git clone https://github.com/1Bugivugi/mws-restaurant-stage-1.git```.
 2. Setup Python from ```https://www.python.org/```. In a terminal, check with ```python -V ``` which version of Python you have installed.
 3. Python 2.x: start the server with `python -m SimpleHTTPServer 8000`
 4. Python 3.x: start the server with `python3 -m http.server 8000` or `python -m http.server 8000`
