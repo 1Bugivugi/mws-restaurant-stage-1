@@ -7,9 +7,7 @@
 * [Project Overview](#instructions)
 * [Installation](#installation)
 * [Live View](#live-view)
-* [Future Updates](#FutureUpdates)
-* [Libraries](#libraries)
-* [Regards](#regards)
+* [Credits](#credits)
 
 ## Project Overview
 
