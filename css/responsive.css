@@ -1,4 +1,4 @@
-@media screen and (max-width: 650 px){
+@media screen and (max-width: 650px){
   .inside {
     display: flex;
     flex-direction: row;
