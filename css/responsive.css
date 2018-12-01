@@ -1,4 +1,4 @@
-@media screen and (max-width: 650 px){
+@media screen and (max-width: 650px){
   .inside {
     display: flex;
     flex-direction: row;
@@ -41,6 +41,8 @@
     width: 100%;
     padding: 150px 0 0 0;
     text-align: center;
+    justify-content: center;
+    margin: auto;
   }
 
   .inside #reviews-container {
