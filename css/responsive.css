@@ -47,6 +47,7 @@
 
   .inside #reviews-container {
     padding: 5px;
+	  width: 100px;
   }
 
   .inside #footer {
