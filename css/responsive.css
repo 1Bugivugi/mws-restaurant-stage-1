@@ -63,5 +63,9 @@
   .inside #restaurant-cuisine {
 	  width: 100%;
   }
+	
+	.inside #restaurant-hours {
+		width: 100%;
+	}
 
 }
