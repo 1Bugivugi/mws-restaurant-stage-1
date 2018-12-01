@@ -49,6 +49,9 @@
     padding: 5px;
     width: 100%;
   }
+	  #reviews-container h2 {
+    text-align: center;
+  }
 
   .inside #footer {
     order: 4;
