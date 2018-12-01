@@ -55,16 +55,9 @@
     width: 100%;
     padding: 10px 0 0 0;
   }
-	
-  .inside #reviews-list {
+
+  #reviews-list, #restaurant-cuisine, #restaurant-img {
     width: 100%;
   }
-	
-  .inside #restaurant-cuisine {
-	  width: 100%;
-  }
-	
-	.inside .reviews-image {
-		width: 100%;
-	}
+
 }
