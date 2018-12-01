@@ -48,6 +48,7 @@
   .inside #reviews-container {
     padding: 5px;
     width: 100%;
+    border-top: 0;
   }
 	  #reviews-container h2 {
     text-align: center;
