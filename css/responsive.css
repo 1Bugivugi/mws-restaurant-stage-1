@@ -60,7 +60,7 @@
     width: 100%;
   }
 	
-  .inside #restaurant-cuisine {
+  .inside #restaurant-cuisine, #reviews-image {
 	  width: 100%;
   }
 
